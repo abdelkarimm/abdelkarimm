@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abdelkarimm
 - 👀 I’m interested in java world
-- 🌱 I’m currently learning java technologies
+- 🌱 I’m learning java technologies
 - 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me : abdelkarim.chinbou@gmail.com 
                        phone : +212675990284
